@@ -2,7 +2,7 @@
 <h1> Conducting a Security Audit </h1>
 
 <h2> Scenario </h2>
-
+<hr> 
 Review the following scenario. Then complete the step-by-step instructions.
 
 This scenario is based on a fictional company:
